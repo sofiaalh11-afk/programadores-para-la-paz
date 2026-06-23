@@ -1,0 +1,3 @@
+Activar la autenticación en dos pasos cuando sea posible.
+Cerrar sesión en dispositivos compartidos.
+Evitar abrir enlaces o archivos de origen desconocido.

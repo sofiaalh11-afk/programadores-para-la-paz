@@ -1,0 +1,5 @@
+Activar la autenticación en dos pasos para los usuarios y administradores.
+Realizar copias de seguridad periódicas de la información importante.
+Verificar la identidad de los usuarios antes de otorgar permisos especiales.
+Monitorear la actividad de la plataforma para detectar comportamientos sospechosos.
+Capacitar a los miembros de la comunidad sobre buenas prácticas de seguridad digital.
